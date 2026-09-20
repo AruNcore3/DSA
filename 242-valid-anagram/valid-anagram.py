@@ -5,7 +5,7 @@ class Solution:
         t1 = Counter(t)
         if s1 == t1:
             return True
-        return False
+        else: return False
         
         
 
